@@ -13,6 +13,7 @@ server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
 
+<<<<<<< HEAD
 
 //node js 
 //basic configaration files
@@ -67,3 +68,5 @@ exports.addCustomerInfo = catchAsyncErrors(async (req, res, next) => {
   }
 
 });
+=======
+>>>>>>> main
