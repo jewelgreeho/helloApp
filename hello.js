@@ -16,3 +16,6 @@ server.listen(port, hostname, () => {
 
 //node js 
 //basic configaration files
+// Sure, here's a simple "Hello, World!" program in Node.js:
+
+console.log("Hello, World!");
