@@ -19,6 +19,10 @@ server.listen(port, hostname, () => {
 // Sure, here's a simple "Hello, World!" program in Node.js:
 
 console.log("Hello, World!");
+console.log("Hello, Bangladesh!");
+console.log("Hello, Bangladesh!");
+console.log("Hello, Bangladesh!");
+console.log("Hello, Bangladesh!");
 
 //############################
 
